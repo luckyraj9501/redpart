@@ -1,0 +1,23 @@
+ <!-- scripts -->
+    <script src="{{ URL::asset('assets/redparts/vendor/jquery/jquery.min.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/vendor/owl-carousel/owl.carousel.min.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/vendor/nouislider/nouislider.min.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/vendor/photoswipe/photoswipe.min.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/vendor/photoswipe/photoswipe-ui-default.min.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/vendor/select2/js/select2.min.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/number.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/main.js')}}"></script>
+    <!-- <script src="{{ URL::asset('assets/redparts/js/discount.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount1.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount2.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount3.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount4.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount5.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount6.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount7.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount8.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount9.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount10.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount11.js')}}"></script>
+    <script src="{{ URL::asset('assets/redparts/js/discount12.js')}}"></script> -->
